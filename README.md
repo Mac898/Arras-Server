@@ -1,6 +1,6 @@
 # Arras.io Private Server Template
 
-##NOTES FROM THE REPOSITORY OWNER
+## NOTES FROM THE REPOSITORY OWNER
 Please note that is simply a re-upload of the actual source files hosted on glitch so it is easier to find and download without manually downloading it from glitch yourself.
 
 ## Quick Start Guide
